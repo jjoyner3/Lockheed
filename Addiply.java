@@ -1,3 +1,4 @@
+//https://lmcodequestacademy.com/problem/addiply
 import java.util.Scanner;
 
 public class Addiply{

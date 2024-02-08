@@ -1,3 +1,4 @@
+//https://lmcodequestacademy.com/problem/are-eucliding-me
 import java.util.*;
 
 public class AreEuclidingMe {

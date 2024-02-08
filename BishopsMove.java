@@ -1,3 +1,4 @@
+//https://lmcodequestacademy.com/problem/bishops-move
 import java.util.Scanner;
 import java.util.StringTokenizer;
 

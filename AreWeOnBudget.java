@@ -1,4 +1,6 @@
+//https://lmcodequestacademy.com/problem/are-we-on-budget
 import java.util.*;
+
 public class AreWeOnBudget {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

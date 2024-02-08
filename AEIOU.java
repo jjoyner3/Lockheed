@@ -1,3 +1,4 @@
+//https://lmcodequestacademy.com/problem/aeiou
 import java.util.Scanner;
 
 public class AEIOU{
